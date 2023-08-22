@@ -894,10 +894,10 @@ p.card-values>span.clubs:after {
   }
 
   .modal.game-rules {
-    width: 20%;
+    width: 40%;
   }
 
   .overlay {
-    height: 70%;
+    height: 1000%;
   }
 }
